@@ -1,6 +1,0 @@
-fixes:
-- name: formulablue
-  sshHost: 10.10.4.9
-  sshUser: tobias
-  sshPrivateKeyPath: C:\Users\Tobias de Bruijn\.ssh\id_ed25519
-  command: ls /tmp/*.log 2>&1 \n
